@@ -12,6 +12,6 @@ public class test1 {
         System.out.println("test5");
         System.out.println("test");
         System.out.println("dsa");
-        System.out.println(aaa);
+        System.out.println("aaa");
     }
 }
